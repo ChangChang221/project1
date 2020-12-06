@@ -192,8 +192,8 @@ int main(){
     }
 
 // IN DIỆN TÍCH GIAO VỚI TRỤC Ox
-    cout<< "Dien tich cua ham thu nhat voi trục Ox (trong khoang -50<x<50): "<<dientich(n,A)<< endl;
-    cout<< "Dien tich cua ham thu hai voi trục Ox (trong khoang -50<x<50): "<<dientich(m,B)<< endl;
+    cout<< "Dien tich cua ham thu nhat voi truc Ox (trong khoang -50<x<50): "<<dientich(n,A)<< endl;
+    cout<< "Dien tich cua ham thu hai voi truc Ox (trong khoang -50<x<50): "<<dientich(m,B)<< endl;
 
 // IN ĐỒ THỊ
     drawxy();
